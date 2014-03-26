@@ -475,11 +475,11 @@ label,  , button, select, textarea {
  , button, select, textarea {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-label {
+/*label {
     color: #333333;
     display: block;
     margin-bottom: 5px;
-}
+}*/
  , textarea, select, .uneditable-  {
     border: 1px solid #CCCCCC;
     border-radius: 3px;
@@ -1335,7 +1335,7 @@ legend + .control-group {
 .fade.in {
     opacity: 1;
 }
-.collapse {
+/*.collapse {
     height: 0;
     overflow: hidden;
     position: relative;
@@ -1343,7 +1343,7 @@ legend + .control-group {
 }
 .collapse.in {
     height: auto;
-}
+}*/
 /*
 .close {
     color: #000000;
